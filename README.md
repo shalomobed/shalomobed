@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shalomobed
-- 👀 Interested in Software Development and Artificial Intelligence
+- 👀 I love programming
 - 💞️ I’m looking to join clubs and internships to increase my exposure 
 - 📫 Reaching me--> www.linkedin.com/in/shalom-obed-8ab7a925a
 - 🏫 Currently a Computer Science Student
